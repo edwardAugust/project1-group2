@@ -40,7 +40,7 @@
 
 ## What genres are the most successful?
 ### We determined that action and adventure appeared the most in the dataset of the highest grossing movies. We took a closer look at these genres by analyzing the sum and mean of their box office sales. Initially, we learned that Sci-Fi and Fantasy had a higher box office average, however the data was inconsistent as the line plot increased and decreased significantly from year to year. Furthermore, action and adventure had the highest sum box office, which emphasied earlier data that there were a higher number of these movies performing in the top films, and the line plot revealed a more consistent average from year to year. Therefore, adventure and action were the most successful and consistent genres to produce.
-![alt text](https://github.com/edwardAugust/project1-group2/tree/main/Output#:~:text=yesterday-,barchartgenre.png,-completed%20code)
+![alt text](https://github.com/edwardAugust/project1-group2/blob/main/Output/barchartgenre.png?raw=true)
 
 ## Does movie rating affect sales?
 ### Throughout the analysis of the film rating we have come to the conclusion that most of the movies in the top 500 are PG-13. The data we have put together shows that PG-13 and G on average per rating earn the highest amount of money. This may be because family friendly films may appeal to a wider audience. There is no proven data that just because it is PG-13 it will earn more money than the other ratings as other rating types have ranked higher been placed on higher positions on the chart. Data could possibly be showing because there could be more PG-13 movies than any other type of movies made. A large dataset of most movies would be needed to confirm. We must accept the bill hypotheses with our current dataset.
