@@ -1,14 +1,14 @@
 # project1-group2
 
-Project Scope
-    Our team will analyze IMDb’s API to parse out relevant data (e.g.,  revenue, genre, premier). After creating data frames using pandas in Jupyter Notebook, we will be able to visualize our data with matplotlib tools to better inform financial decisions. 
+##Project Scope
+    ###Our team will analyze IMDb’s API to parse out relevant data (e.g.,  revenue, genre, premier). After creating data frames using pandas in Jupyter Notebook, we will be able to visualize our data with matplotlib tools to better inform financial decisions. 
 
-Goals
-    Creating a statistical analysis that provides predictions of which movies, studios, directors, and actors will lead to the most sales.
+##Goals
+    ###Creating a statistical analysis that provides predictions of which movies, studios, directors, and actors will lead to the most sales.
 
-Analysis of movies
-    -Title of movie 
-    -Actors
+##Analysis of movies
+    ###-Title of movie 
+    ###-Actors
     -World sales
     -Directors
     -IMDB/Rotten Tomatoes score
